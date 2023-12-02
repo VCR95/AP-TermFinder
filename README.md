@@ -6,15 +6,24 @@ Usage is straight forward. User is prompted to insert any sequence of arithmetic
 Program should find any nth term no matter the order.
 
 For example:
+
 Enter how many terms are in the sequence: 5
+
 Enter number 1: 1
+
 Enter number 2: 27
+
 Enter number 3: 125
+
 Enter number 4: 343
+
 Enter number 5: 729
 
+
 Enter the term you wish to find: 7
+
 (which means, find the 7th term of the sequence).
+
 
 Output: An = 2197
 
